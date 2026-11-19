@@ -1,0 +1,18 @@
+[general]
+name=MicaSense Spectral Indices
+qgisMinimumVersion=3.16
+qgisMaximumVersion=4.99
+description=Computes spectral indices from MicaSense RedEdge-P multiband rasters for archaeological cropmark and soilmark detection.
+version=1.1
+author=Jitte Waagen
+email=j.waagen@uva.nl
+about=Computes spectral indices from a MicaSense RedEdge-P multiband orthomosaic exported by Agisoft Metashape. Indices can be selected individually and are saved as separate GeoTIFFs and optionally loaded into the QGIS map.
+tracker=
+repository=
+hasProcessingProvider=no
+tags=remote sensing, multispectral, archaeology, MicaSense, spectral indices, NDVI, NDRE, SAVI, cropmarks, soilmarks
+homepage=
+category=Raster
+icon=
+experimental=False
+deprecated=False
